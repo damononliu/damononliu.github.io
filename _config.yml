@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Damon!
 #
 # This config file is meant for settings that affect your whole blog.
 #
@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
+title: Damon's life!
 description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+github_username: damononliu
 
 # Email and twitter are optional:
-email: 
+email: 1043008083@qq.com
 twitter_username: 
 
 # Set this to true to get LaTeX math equation support
